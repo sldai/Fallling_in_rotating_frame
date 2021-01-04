@@ -20,4 +20,6 @@ The deflection of a falling object in the rotating frame.
 
 The fastest descent line is not a straight line but a cycloid. It's a classic example of calculus of variations.
 
+速降线问题的仿真。
+
 ![fastest_line](figure/fastest_line.gif)
