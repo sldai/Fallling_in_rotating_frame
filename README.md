@@ -1,13 +1,23 @@
 Overview
 --------
-This project simulates the deflection of a falling object in the rotating frame.
+This project simulates some interesting physics phenomena.
 
-由于地球自转的影响，在北半球无初速度下落的物体会有一个向东的偏移。这是对这个现象的仿真。
+Contents
+--------
+
+The deflection of a falling object in the rotating frame.
+
+由于地球自转的影响,无初速度下落的物体会有一个向东的偏移。
+
 <table>
 <tbody>
   <tr>
-    <td><img src=earth.gif></td>
-    <td><img src=ground.gif></td>
+    <td><img src=figure/earth.gif></td>
+    <td><img src=figure/ground.gif></td>
   </tr>
 </tbody>
 </table>
+
+The fastest descent line is not a straight line but a cycloid. It's a classic example of calculus of variations.
+
+![fastest_line](figure/fastest_line.gif)
